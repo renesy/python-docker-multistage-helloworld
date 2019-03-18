@@ -5,6 +5,7 @@ verify_ssl = true
 
 [dev-packages]
 ipython = "*"
+twine = "*"
 
 [packages]
 pycrypto = "==2.6.1"
