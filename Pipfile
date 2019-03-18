@@ -8,7 +8,7 @@ ipython = "*"
 twine = "*"
 
 [packages]
-pycrypto = "==2.6.1"
+pycryptodome = "*"
 
 [requires]
 python_version = "3.7"
